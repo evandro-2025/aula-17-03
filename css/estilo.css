@@ -25,7 +25,7 @@ section.menu{
 }
 section.menu div{
 	width: 60%;
-	background-color: blue;
+	background-color: black;
 	border: 2px solid white;
 	margin-left:  20%;
 	margin-bottom: 3%;
@@ -39,7 +39,7 @@ section.menu div{
 
 }
    section.menu div:hover{
-   	background-color: blue;
+   	background-color: brown;
    }
    section.cabecalho{
    	width: 60vw;
@@ -173,6 +173,20 @@ secton.mapa iframe{
 	width: 100%;
 	height: 100%;
 }
+section.conteudo{
+	width: 100%;
+	heigth:50%;
+	margin-top:4vh;
+	margin-left:20vw;
+}
+section.link{
+	width: 60vw;
+	heigth:40vh;
+	flex-direction: column;
+	background-color: black;
+}
+ 
+
 
 
 
